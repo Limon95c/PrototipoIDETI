@@ -1,0 +1,3 @@
+TC10/Matematicas Discretas/13-Nov-2016/Principiante/4
+TC11/Interconexion de redes/16-Nov-2016/Principiante/2
+TC12/Programacion orientada a objetos/12-Nov-2016/Intermedio/4
